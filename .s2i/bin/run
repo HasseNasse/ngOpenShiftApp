@@ -1,3 +1,0 @@
-# Before running application
-echo "Before running application"
-chmod 444 /opt/app-root/src
